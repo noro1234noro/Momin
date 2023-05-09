@@ -1,1 +1,1 @@
-const offerLink = "vnd.youtube://www.youtube.com/redirect?event=comments&redir_token=testtoken=https://test.link.com&html_redirect=1 ";
+const offerLink = "vnd.youtube://youtube.com/redirect?event=comments&redir_token=QUFFLUhqa0w0bW91SWE5QVlrV29KZjBEZmprNlBTLTBqd3xBQ3Jtc0tuN3BfNWV0RllZaExtUUNKaWprQXFIdmJjRkp0aEhYVkhfWHQ0aDNKZEVDcURCM2dMU0lsc1NtdG45VTQtSk1ReEh1T0ZPQzl5alZmZmZ1U1hQZ3RHTDE5YmhpLUFidmNDZkJUNTVpemt3TmRWY1JHTQ&q=https%3A%2F%2Fcuty.io%2FK6oI2jHW4&html_redirect=1 ";
